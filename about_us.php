@@ -18,7 +18,8 @@ $end_date = date("Y-m-d H:i:s",(strtotime($start_date)+(86400*7)));
 </head>
 <body>
 <?php 
-	// 顯示抬頭畫面eric
+	// 顯示抬頭畫面eric 
+	//eric yayaya
 	require("./topshow.php");
 ?>
 <div class="news_main">
